@@ -1,0 +1,20 @@
+
+
+.main {  
+    width: 50%;  
+    border: 1px solid #000; 
+    text-align: center;  
+    background-image: url(“042-01.png“);
+} 
+
+.main li {
+    text-align: left; 
+    text-decoration: none;
+    list-style-image:url(icon_101_right2.gif);
+}
+
+.span {  
+    text-align: left;
+} 
+
+
